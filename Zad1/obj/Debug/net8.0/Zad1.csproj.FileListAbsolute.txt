@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\Clasove\Zad1\bin\Debug\net8.0\Zad1.exe
+C:\Users\User\Documents\programirane\Clasove\Zad1\bin\Debug\net8.0\Zad1.deps.json
+C:\Users\User\Documents\programirane\Clasove\Zad1\bin\Debug\net8.0\Zad1.runtimeconfig.json
+C:\Users\User\Documents\programirane\Clasove\Zad1\bin\Debug\net8.0\Zad1.dll
+C:\Users\User\Documents\programirane\Clasove\Zad1\bin\Debug\net8.0\Zad1.pdb
+C:\Users\User\Documents\programirane\Clasove\Zad1\obj\Debug\net8.0\Zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\Clasove\Zad1\obj\Debug\net8.0\Zad1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\Clasove\Zad1\obj\Debug\net8.0\Zad1.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\Clasove\Zad1\obj\Debug\net8.0\Zad1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\Clasove\Zad1\obj\Debug\net8.0\Zad1.dll
+C:\Users\User\Documents\programirane\Clasove\Zad1\obj\Debug\net8.0\refint\Zad1.dll
+C:\Users\User\Documents\programirane\Clasove\Zad1\obj\Debug\net8.0\Zad1.pdb
+C:\Users\User\Documents\programirane\Clasove\Zad1\obj\Debug\net8.0\Zad1.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\Clasove\Zad1\obj\Debug\net8.0\ref\Zad1.dll
