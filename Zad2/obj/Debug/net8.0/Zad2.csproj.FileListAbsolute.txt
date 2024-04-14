@@ -12,3 +12,4 @@ C:\Users\User\Documents\programirane\Clasove\Zad2\obj\Debug\net8.0\refint\Zad2.d
 C:\Users\User\Documents\programirane\Clasove\Zad2\obj\Debug\net8.0\Zad2.pdb
 C:\Users\User\Documents\programirane\Clasove\Zad2\obj\Debug\net8.0\Zad2.genruntimeconfig.cache
 C:\Users\User\Documents\programirane\Clasove\Zad2\obj\Debug\net8.0\ref\Zad2.dll
+C:\Users\User\Documents\programirane\Clasove\Zad2\obj\Debug\net8.0\Zad2.sourcelink.json
