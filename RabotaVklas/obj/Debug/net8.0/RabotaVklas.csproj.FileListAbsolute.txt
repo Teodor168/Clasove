@@ -1,0 +1,15 @@
+C:\Users\User\Documents\programirane\Clasove\RabotaVklas\bin\Debug\net8.0\RabotaVklas.exe
+C:\Users\User\Documents\programirane\Clasove\RabotaVklas\bin\Debug\net8.0\RabotaVklas.deps.json
+C:\Users\User\Documents\programirane\Clasove\RabotaVklas\bin\Debug\net8.0\RabotaVklas.runtimeconfig.json
+C:\Users\User\Documents\programirane\Clasove\RabotaVklas\bin\Debug\net8.0\RabotaVklas.dll
+C:\Users\User\Documents\programirane\Clasove\RabotaVklas\bin\Debug\net8.0\RabotaVklas.pdb
+C:\Users\User\Documents\programirane\Clasove\RabotaVklas\obj\Debug\net8.0\RabotaVklas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\Clasove\RabotaVklas\obj\Debug\net8.0\RabotaVklas.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\Clasove\RabotaVklas\obj\Debug\net8.0\RabotaVklas.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\Clasove\RabotaVklas\obj\Debug\net8.0\RabotaVklas.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\Clasove\RabotaVklas\obj\Debug\net8.0\RabotaVklas.sourcelink.json
+C:\Users\User\Documents\programirane\Clasove\RabotaVklas\obj\Debug\net8.0\RabotaVklas.dll
+C:\Users\User\Documents\programirane\Clasove\RabotaVklas\obj\Debug\net8.0\refint\RabotaVklas.dll
+C:\Users\User\Documents\programirane\Clasove\RabotaVklas\obj\Debug\net8.0\RabotaVklas.pdb
+C:\Users\User\Documents\programirane\Clasove\RabotaVklas\obj\Debug\net8.0\RabotaVklas.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\Clasove\RabotaVklas\obj\Debug\net8.0\ref\RabotaVklas.dll
