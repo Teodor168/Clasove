@@ -36,27 +36,28 @@
             }
             Console.WriteLine();
 
-            //a)
-            Person oldest = myFamily.Members[count - 1];
-            Person youngest = myFamily.Members[0];
-            Console.Write("nai star: ");
-            oldest.PrintOldestAndYoungest();
-            Console.Write("nai mlad: ");
-            youngest.PrintOldestAndYoungest();
+            //a) 
+            
 
 
             //b)
-            foreach (Person member in myFamily.Members)
-            {
-                total += member.Age;
-            }
+            //foreach (Person member in myFamily.Members)
+            //{
+            //    total += member.Age; 
+            //}
+
+            int sum = myFamily.SumOfTheFamily();
+
            
-            Console.WriteLine();
+            
          
             //Pechat
             myFamily.PrintAll();
             Console.WriteLine();
-            Console.WriteLine($"Sumata na godinite e: {total}");
+            myFamily.PrintYoungest();
+            Console.WriteLine();
+            myFamily.PrintOldest();
+            Console.WriteLine($"Sumata e ot godinite e: {sum}");
         }
     }
 }

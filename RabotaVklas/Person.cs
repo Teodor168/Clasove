@@ -37,9 +37,10 @@ namespace RabotaVklas
         {
             Console.WriteLine($"Az sum {this.name} i sum na {this.age}.");
         }
-        public void PrintOldestAndYoungest()
-        {
-            Console.WriteLine($"ime: {Name}, godini: {Age}");
-        }
+        //    public void PrintOldestAndYoungest()
+        //    {
+        //        Console.WriteLine($"ime: {Name}, godini: {Age}");
+        //    }
+        //}
     }
 }
